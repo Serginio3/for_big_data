@@ -23,7 +23,7 @@ class Highest_combination_in_line:
 
     def perform(self):
         """
-        Returns the tuple of initial hand, the top five
+        Returns the string of initial hand, the top five
         cards on the deck, and the best value of hand that is possible
         """
         self.__Highest_combination()
